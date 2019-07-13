@@ -8,19 +8,25 @@ I am still organizing all my scripts and stuff. Please stay tune to the repo.
 ## Good Readups
 ### Linux
 [(Outdated) Basic Linux Priviledge Checklist - https://www.blackmoreops.com/2017/01/17/find-linux-exploits-by-kernel-version/](https://www.blackmoreops.com/2017/01/17/find-linux-exploits-by-kernel-version/)
+
 [Basic Linux Priviledge Escalation Checklist - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+
 [Exploit SUID/SGID - https://null-byte.wonderhowto.com/how-to/hack-like-pro-finding-potential-suid-sgid-vulnerabilities-linux-unix-systems-0158373/](https://null-byte.wonderhowto.com/how-to/hack-like-pro-finding-potential-suid-sgid-vulnerabilities-linux-unix-systems-0158373/)
 
 
 ### Windows
 [Windows Exploit Suggester - https://resources.infosecinstitute.com/windows-exploit-suggester-an-easy-way-to-find-and-exploit-windows-vulnerabilities/](https://resources.infosecinstitute.com/windows-exploit-suggester-an-easy-way-to-find-and-exploit-windows-vulnerabilities/)
+
 [PowerSploit - Post-exploit framework - https://github.com/PowerShellMafia/PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
+
 [nishang - Post-exploit Toolkit - https://github.com/samratashok/nishang](https://github.com/samratashok/nishang)
+
 [Some Windows privesc techniques - https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/](https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/)
 
 
 ### Database
 [SQL Injection Techniques - https://www.exploit-db.com/docs/41273.pdf](https://www.exploit-db.com/docs/41273.pdf)
+
 [Useful notes - https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 
 
